@@ -16,18 +16,19 @@ Users can input subjects, timings, and priorities, and get an organized schedule
 - Command Line Interface (CLI)
 
 ## Workflow
-1. The program prompts the user to enter subjects and time slots.
-2. Checks for conflicts and arranges subjects based on priority.
-3. Outputs a weekly timetable in a readable format.
+- The program prompts the user to enter subjects and time slots.
+- Checks for conflicts and arranges subjects based on priority.
+- Outputs a weekly timetable in a readable format.
 
 ## Achievements
--Developed as a finalist project for Smart India Hackathon 2025 (SIH 25)
--Applied real-world problem-solving to create a practical scheduling tool
+- Developed as a project submitted for the Smart India Hackathon 2025 (SIH 25)
+- Qualified at the internal hackathon stage
+- Applied real-world problem-solving to create a practical scheduling tool
 
 ## Challenges & Learnings
-1. Learned to handle user input validation and conflict resolution
-2. Practiced organizing data structures for scheduling
-3. Improved modular Python programming skills
+- Learned to handle user input validation and conflict resolution
+- Practiced organizing data structures for scheduling
+- Improved modular Python programming skills
 
 ## Authors
 - Jeenia Basu
