@@ -30,10 +30,3 @@ Users can input subjects, timings, and priorities, and get an organized schedule
 - Practiced organizing data structures for scheduling
 - Improved modular Python programming skills
 
-## Authors
-- Jeenia Basu
-- Ankush Dutta
-- Spandan Aich
-- Soham Ghosh
-- Papia Karmakar
-- Samayeeta Bag
